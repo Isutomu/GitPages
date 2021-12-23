@@ -1,10 +1,10 @@
-#Test site
+# Test site
 
 Esse site é um one pager, e utiliza somente **HTML e CSS**.
 Nessa página, por ser um teste, o conteúdo não é tão importante.
 Também considerando que eu não possuo tantas habilidades para focar em mostrá-las no site, eu decidi só utilizar umas informações meio aleatórias.
 
-##Informações extras sobre a página
+## Informações extras sobre a página
 
 - Nenhum framework utilizado
 - Acessibilidade fora considerada, em especial os tópicos a seguir
